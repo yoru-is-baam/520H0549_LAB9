@@ -1,0 +1,10 @@
+E:\520h0549\StudentLibMsTest\StudentLib\bin\Debug\netcoreapp3.1\StudentLib.deps.json
+E:\520h0549\StudentLibMsTest\StudentLib\bin\Debug\netcoreapp3.1\StudentLib.dll
+E:\520h0549\StudentLibMsTest\StudentLib\bin\Debug\netcoreapp3.1\StudentLib.pdb
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.csproj.AssemblyReference.cache
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.AssemblyInfoInputs.cache
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.AssemblyInfo.cs
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.csproj.CoreCompileInputs.cache
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.dll
+E:\520h0549\StudentLibMsTest\StudentLib\obj\Debug\netcoreapp3.1\StudentLib.pdb
